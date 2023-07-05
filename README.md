@@ -1,6 +1,6 @@
 # so-vits-svc-fork-custom
 
-This is a custom repository of so-vits-svc-fork, an open-source project for vocal separation. In this custom version, we have added additional features such as a vocal separator and a data set creator. The main advantage of this custom version is that it can be used directly in a Colab notebook without the need for UVR (Universal Vocal Remover) for vocal removal.
+This is a custom repository of so-vits-svc-fork, an open-source project for vocal separation. In this custom version, I have added additional features such as a vocal separator and a data set creator. The main advantage of this custom version is that it can be used directly in a Colab notebook without the need for UVR (Ultimate Vocal emover) for vocal removal.
 
 ## Features
 
@@ -22,5 +22,3 @@ We welcome contributions to enhance the functionality and usability of so-vits-s
    - Commit your changes and push them to your fork.
    - Submit a pull request, explaining the changes you have made.
 
-License
-so-vits-svc-fork-custom is licensed under the MIT License. You are free to use, modify, and distribute this software as per the terms of the license.
